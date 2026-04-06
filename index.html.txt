@@ -1,0 +1,14 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>Taxi AI</title>
+</head>
+<body>
+
+<h1>Taxi AI</h1>
+
+</body>
+</html>
+
